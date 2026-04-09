@@ -34,7 +34,6 @@ CREATE TABLE booking_commercials (
 );
 
 
--- 2. Insert Sample Data (You would populate this from the PDF)
 INSERT INTO users VALUES ('21wrcxuy-67erfn', 'John Doe', '9788552489', 'john.doe@example.com', 'XX, Street Y, ABC City');
 INSERT INTO items VALUES ('itm-a9e8-q8fu', 'Tawa Paratha', 18);
 INSERT INTO items VALUES ('itm-a07vh-aer8', 'Mix Veg', 89);
